@@ -187,8 +187,6 @@
     "_mime-db@1.38.0@mime-db": "^1.38.0",
     "_mime-types@2.1.22@mime-types": "^2.1.22",
     "_mime@1.4.1@mime": "^1.4.1",
-    "_minimatch@0.2.14@minimatch": "^0.2.14",
-    "_minimatch@2.0.10@minimatch": "^2.0.10",
     "_minimist@0.0.8@minimist": "^0.0.8",
     "_minimist@1.2.0@minimist": "^1.2.0",
     "_mixin-deep@1.3.1@mixin-deep": "^1.3.1",
